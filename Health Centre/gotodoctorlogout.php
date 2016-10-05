@@ -1,0 +1,1 @@
+Click here to <a href="doctor_logout.php">logout</a>
